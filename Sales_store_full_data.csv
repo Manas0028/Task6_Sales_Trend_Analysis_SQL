@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerName,State,City,Amount,Profit,Quantity,Category,SubCategory,PaymentMode
+1001,01 January 2026,Aarav Sharma,Uttar Pradesh,Meerut,3005,301.09,2,Clothing,Men Wear,UPI
+1002,02 January 2026,Vihaan Gupta,Delhi,New Delhi,4515,290.87,5,Clothing,Men Wear,Cash on Delivery
+1003,03 January 2026,Aditya Singh,Maharashtra,Mumbai,2938,756.6,5,Clothing,Kids Wear,Debit Card
+1004,04 January 2026,Krishna Verma,Karnataka,Bangalore,979,187.7,2,Furniture,Table,UPI
+1005,05 January 2026,Ishaan Patel,Gujarat,Ahmedabad,2633,719.28,3,Clothing,Men Wear,UPI
+1006,06 January 2026,Rohan Das,West Bengal,Kolkata,3150,876.71,3,Furniture,Table,Debit Card
+1007,07 January 2026,Arjun Nair,Kerala,Kochi,1194,127.78,4,Furniture,Sofa,Cash on Delivery
+1008,08 January 2026,Siddharth Jain,Rajasthan,Jaipur,979,222.02,3,Electronics,Accessories,UPI
+1009,09 January 2026,Kabir Khan,Madhya Pradesh,Indore,3431,624.32,2,Furniture,Table,UPI
+1010,10 January 2026,Yash Mehta,Haryana,Gurgaon,1091,193.91,4,Clothing,Men Wear,Credit Card
+1011,11 January 2026,Ananya Sharma,Uttar Pradesh,Lucknow,1450,257.69,4,Grocery,Snacks,UPI
+1012,12 January 2026,Diya Gupta,Delhi,New Delhi,3398,592.73,2,Clothing,Women Wear,Debit Card
+1013,13 January 2026,Meera Iyer,Tamil Nadu,Chennai,3540,390.3,4,Clothing,Men Wear,Cash on Delivery
+1014,14 January 2026,Riya Kapoor,Punjab,Chandigarh,2986,747.71,5,Electronics,Accessories,Credit Card
+1015,15 January 2026,Simran Kaur,Punjab,Amritsar,3401,808.81,4,Electronics,Accessories,UPI
+1016,16 January 2026,Neha Yadav,Uttar Pradesh,Noida,4512,364.9,3,Furniture,Chair,Debit Card
+1017,17 January 2026,Pooja Verma,Bihar,Patna,1300,199.69,5,Electronics,Accessories,Debit Card
+1018,18 January 2026,Shreya Singh,Jharkhand,Ranchi,4251,931.01,4,Electronics,Accessories,Cash on Delivery
+1019,19 January 2026,Ankit Mishra,Uttar Pradesh,Varanasi,4945,1346.79,5,Electronics,Mobile,Cash on Delivery
+1020,20 January 2026,Rahul Chauhan,Uttarakhand,Dehradun,2975,211.07,4,Grocery,Beverages,Credit Card
+1021,21 January 2026,Manish Kumar,Bihar,Gaya,2483,374.99,5,Electronics,Accessories,Credit Card
+1022,22 January 2026,Deepak Yadav,Haryana,Faridabad,3582,674.93,1,Electronics,Accessories,Credit Card
+1023,23 January 2026,Amit Shah,Gujarat,Surat,1249,99.35,5,Electronics,Mobile,UPI
+1024,24 January 2026,Harsh Patel,Gujarat,Vadodara,1842,444.73,3,Electronics,Laptop,UPI
+1025,25 January 2026,Kunal Singh,Uttar Pradesh,Kanpur,663,55.77,1,Clothing,Men Wear,UPI
+1026,26 January 2026,Ajay Kumar,Delhi,New Delhi,1773,119.6,2,Electronics,Mobile,Cash on Delivery
+1027,27 January 2026,Ravi Verma,Madhya Pradesh,Bhopal,2175,361.41,5,Furniture,Chair,Credit Card
+1028,28 January 2026,Sachin Yadav,Uttar Pradesh,Agra,2752,627.51,2,Electronics,Laptop,Cash on Delivery
+1029,29 January 2026,Sunil Gupta,Rajasthan,Jodhpur,1604,460.42,3,Electronics,Accessories,Credit Card
+1030,30 January 2026,Prakash Sharma,Himachal Pradesh,Shimla,2822,524.03,4,Grocery,Beverages,Cash on Delivery
+1031,31 January 2026,Nitin Jain,Delhi,New Delhi,4859,662.59,2,Electronics,Mobile,Debit Card
+1032,01 February 2026,Alok Singh,Uttar Pradesh,Meerut,440,115.39,3,Furniture,Table,Cash on Delivery
+1033,02 February 2026,Sandeep Kumar,Haryana,Panipat,612,88.96,5,Grocery,Staples,Cash on Delivery
+1034,03 February 2026,Varun Malhotra,Punjab,Ludhiana,3000,191.4,4,Clothing,Kids Wear,Cash on Delivery
+1035,04 February 2026,Abhishek Tiwari,Uttar Pradesh,Prayagraj,3465,1013.42,1,Grocery,Snacks,Credit Card
+1036,05 February 2026,Ashish Singh,Madhya Pradesh,Gwalior,1124,323.9,5,Clothing,Kids Wear,Cash on Delivery
+1037,06 February 2026,Vikas Sharma,Uttarakhand,Haridwar,2374,478.73,1,Furniture,Sofa,Debit Card
+1038,07 February 2026,Naresh Patel,Gujarat,Rajkot,419,94.78,2,Clothing,Kids Wear,UPI
+1039,08 February 2026,Ramesh Yadav,Uttar Pradesh,Ghaziabad,2583,498.06,2,Grocery,Beverages,Credit Card
+1040,09 February 2026,Arvind Kumar,Bihar,Muzaffarpur,4731,1320.46,3,Furniture,Sofa,Credit Card
+1041,10 February 2026,Pankaj Singh,Uttar Pradesh,Aligarh,2947,355.1,2,Furniture,Chair,Credit Card
+1042,11 February 2026,Gaurav Verma,Haryana,Rohtak,3705,461.64,4,Furniture,Sofa,Debit Card
+1043,12 February 2026,Rohit Sharma,Maharashtra,Pune,1547,379.81,4,Grocery,Beverages,Debit Card
+1044,13 February 2026,Suresh Patel,Gujarat,Bhavnagar,4015,510.26,3,Electronics,Mobile,UPI
+1045,14 February 2026,Karan Singh,Rajasthan,Udaipur,4418,455.39,4,Electronics,Accessories,Cash on Delivery
+1046,15 February 2026,Mohit Yadav,Uttar Pradesh,Bareilly,4970,415.21,1,Electronics,Laptop,Cash on Delivery
+1047,16 February 2026,Shubham Jain,Delhi,New Delhi,4543,948.11,2,Grocery,Staples,UPI
+1048,17 February 2026,Tarun Gupta,Haryana,Ambala,4987,666.68,4,Grocery,Snacks,Cash on Delivery
+1049,18 February 2026,Kapil Sharma,Punjab,Patiala,4353,696.72,4,Grocery,Snacks,Cash on Delivery
+1050,19 February 2026,Manoj Kumar,Bihar,Bhagalpur,3165,522.43,1,Electronics,Laptop,Debit Card
+1051,20 February 2026,Rajesh Verma,Uttar Pradesh,Meerut,3063,468.46,5,Grocery,Snacks,Debit Card
+1052,21 February 2026,Aakash Singh,Uttar Pradesh,Noida,2513,221.25,1,Furniture,Table,Debit Card
+1053,22 February 2026,Sumit Kumar,Haryana,Gurgaon,4684,1116.13,3,Grocery,Staples,Debit Card
+1054,23 February 2026,Anil Sharma,Rajasthan,Ajmer,2185,341.52,3,Clothing,Kids Wear,Debit Card
+1055,24 February 2026,Dev Patel,Gujarat,Ahmedabad,4458,515.35,2,Furniture,Chair,Debit Card
+1056,25 February 2026,Jay Shah,Gujarat,Surat,2425,588.83,5,Furniture,Sofa,UPI
+1057,26 February 2026,Rajat Verma,Delhi,New Delhi,1192,268.96,2,Electronics,Accessories,UPI
+1058,27 February 2026,Aman Gupta,Uttar Pradesh,Kanpur,1795,171.35,1,Clothing,Women Wear,Credit Card
+1059,28 February 2026,Nikhil Singh,Madhya Pradesh,Indore,4221,893.79,3,Grocery,Staples,Credit Card
+1060,01 March 2026,Harsh Sharma,Himachal Pradesh,Manali,880,74.07,3,Furniture,Sofa,Credit Card
+1061,02 March 2026,Deep Sharma,Uttarakhand,Nainital,3631,645.36,2,Clothing,Men Wear,Debit Card
+1062,03 March 2026,Mayank Jain,Delhi,New Delhi,1838,483.98,1,Clothing,Women Wear,Credit Card
+1063,04 March 2026,Ravi Kumar,Bihar,Patna,4485,1211.33,4,Clothing,Men Wear,Credit Card
+1064,05 March 2026,Sunil Singh,Uttar Pradesh,Lucknow,499,114.51,3,Electronics,Mobile,Credit Card
+1065,06 March 2026,Rohit Gupta,Haryana,Faridabad,1025,72.25,3,Furniture,Table,Debit Card
+1066,07 March 2026,Anuj Sharma,Rajasthan,Jaipur,2945,456.16,3,Clothing,Men Wear,Cash on Delivery
+1067,08 March 2026,Keshav Patel,Gujarat,Vadodara,1465,297.45,2,Electronics,Mobile,Credit Card
+1068,09 March 2026,Amit Kumar,Uttar Pradesh,Varanasi,827,205.62,3,Furniture,Chair,Debit Card
+1069,10 March 2026,Abhay Singh,Uttar Pradesh,Meerut,1430,232.56,2,Furniture,Chair,Credit Card
+1070,11 March 2026,Vivek Sharma,Maharashtra,Nagpur,2828,167.01,4,Electronics,Mobile,Debit Card
+1071,12 March 2026,Praveen Kumar,Haryana,Sonipat,2357,517.29,5,Electronics,Mobile,Cash on Delivery
+1072,13 March 2026,Gopal Sharma,Rajasthan,Kota,4683,1312,5,Grocery,Beverages,UPI
+1073,14 March 2026,Ajit Singh,Punjab,Jalandhar,653,183.59,2,Clothing,Women Wear,Cash on Delivery
+1074,15 March 2026,Rakesh Kumar,Uttar Pradesh,Ghaziabad,2844,224.76,3,Electronics,Laptop,UPI
+1075,16 March 2026,Shyam Verma,Bihar,Gaya,2704,316.34,1,Clothing,Men Wear,Cash on Delivery
+1076,17 March 2026,Dinesh Patel,Gujarat,Rajkot,2406,643.61,4,Furniture,Chair,Credit Card
+1077,18 March 2026,Om Prakash,Uttar Pradesh,Agra,4264,387.36,5,Furniture,Table,Debit Card
+1078,19 March 2026,Sanjay Singh,Madhya Pradesh,Bhopal,1526,309.49,4,Grocery,Staples,Cash on Delivery
+1079,20 March 2026,Arun Kumar,Uttarakhand,Dehradun,2269,469.53,4,Electronics,Laptop,Cash on Delivery
+1080,21 March 2026,Suraj Gupta,Delhi,New Delhi,543,117,5,Grocery,Snacks,Debit Card
+1081,22 March 2026,Ram Kumar,Uttar Pradesh,Meerut,4866,967.68,1,Electronics,Accessories,UPI
+1082,23 March 2026,Mukesh Sharma,Haryana,Gurgaon,497,127.28,4,Furniture,Sofa,Credit Card
+1083,24 March 2026,Naresh Kumar,Rajasthan,Udaipur,4450,1002.1,2,Grocery,Staples,Credit Card
+1084,25 March 2026,Tejas Patel,Gujarat,Ahmedabad,4400,1071.3,2,Furniture,Table,Cash on Delivery
+1085,26 March 2026,Ajay Singh,Uttar Pradesh,Kanpur,2890,629.58,4,Grocery,Snacks,Debit Card
+1086,27 March 2026,Ravi Gupta,Delhi,New Delhi,4710,1011.7,3,Furniture,Sofa,Credit Card
+1087,28 March 2026,Alok Sharma,Haryana,Panipat,4709,781.13,3,Clothing,Men Wear,Credit Card
+1088,29 March 2026,Puneet Jain,Punjab,Ludhiana,3036,721.35,3,Grocery,Staples,UPI
+1089,30 March 2026,Ashok Kumar,Bihar,Patna,4887,1344.01,3,Furniture,Sofa,UPI
+1090,31 March 2026,Sachin Verma,Uttar Pradesh,Lucknow,3555,542.25,3,Clothing,Women Wear,Debit Card
+1091,01 April 2026,Rohit Singh,Uttar Pradesh,Meerut,4742,295.84,4,Clothing,Women Wear,Credit Card
+1092,02 April 2026,Amit Sharma,Haryana,Faridabad,3783,266.49,3,Clothing,Kids Wear,Credit Card
+1093,03 April 2026,Manish Gupta,Delhi,New Delhi,2719,468.81,3,Furniture,Chair,Credit Card
+1094,04 April 2026,Karan Verma,Rajasthan,Jaipur,1891,232.92,2,Electronics,Laptop,Debit Card
+1095,05 April 2026,Deepak Singh,Madhya Pradesh,Indore,2945,569.94,2,Clothing,Women Wear,Debit Card
+1096,06 April 2026,Raj Patel,Gujarat,Surat,3244,876.59,5,Grocery,Staples,Cash on Delivery
+1097,07 April 2026,Ankit Sharma,Uttar Pradesh,Noida,646,124.7,4,Clothing,Kids Wear,UPI
+1098,08 April 2026,Harsh Gupta,Haryana,Gurgaon,2171,627.43,5,Furniture,Sofa,Credit Card
+1099,09 April 2026,Varun Singh,Uttar Pradesh,Meerut,2985,344.4,5,Electronics,Laptop,Credit Card
+1100,10 April 2026,Rahul Sharma,Delhi,New Delhi,2558,468.01,3,Furniture,Chair,UPI
